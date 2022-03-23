@@ -3,10 +3,15 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://github.com/sweco-dkjimm/sweco-lib-test",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sweco-dkjimm/sweco-lib-test.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["test"],
   "author": "Sweco",
   "license": "ISC",
   "devDependencies": {},
